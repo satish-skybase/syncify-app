@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>972429357875-c83lh8go02ad0i6b6a476va8t1d38nsa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.972429357875-c83lh8go02ad0i6b6a476va8t1d38nsa</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAtSjJkXo7HpcYgdn5Hah1BATpN009rceY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>972429357875</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.dataSyncFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>skybase-apps</string>
+	<key>STORAGE_BUCKET</key>
+	<string>skybase-apps.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:972429357875:ios:ac80576b2e89ef2e63c446</string>
+	<key>DATABASE_URL</key>
+	<string>https://skybase-apps-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

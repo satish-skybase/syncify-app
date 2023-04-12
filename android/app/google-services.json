@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "972429357875",
+    "firebase_url": "https://skybase-apps-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "skybase-apps",
+    "storage_bucket": "skybase-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972429357875:android:e2d6505a1a1b615663c446",
+        "android_client_info": {
+          "package_name": "com.example.data_sync_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972429357875-t29l60ej0djfcnqli8eh18221icp5b6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjmjStq5HrG2nnUEslEpaZvCiZTnspCXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972429357875-t29l60ej0djfcnqli8eh18221icp5b6t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972429357875-c83lh8go02ad0i6b6a476va8t1d38nsa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dataSyncFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972429357875:android:0043e66f688a764263c446",
+        "android_client_info": {
+          "package_name": "com.skybase.apps.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972429357875-t29l60ej0djfcnqli8eh18221icp5b6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjmjStq5HrG2nnUEslEpaZvCiZTnspCXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972429357875-t29l60ej0djfcnqli8eh18221icp5b6t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972429357875-c83lh8go02ad0i6b6a476va8t1d38nsa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dataSyncFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972429357875:android:7ba8116f564ace6e63c446",
+        "android_client_info": {
+          "package_name": "np.com.skybase.apps.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972429357875-t29l60ej0djfcnqli8eh18221icp5b6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjmjStq5HrG2nnUEslEpaZvCiZTnspCXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972429357875-t29l60ej0djfcnqli8eh18221icp5b6t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972429357875-c83lh8go02ad0i6b6a476va8t1d38nsa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dataSyncFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
